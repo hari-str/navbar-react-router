@@ -54,6 +54,10 @@
 
 @media only screen and (max-width:698px) {
 
+    .navbar__logo a {
+        font-size: 1.3rem;
+    }
+
     .navbar__links {
         display: flex;
         flex-direction: column;

@@ -11,3 +11,15 @@
     font-size: 2rem;
     font-weight: 600;
 }
+
+@media only screen and (max-width:698px) {
+
+    .home,
+    .products,
+    .about,
+    .contact,
+    .signup,
+    .notfound {
+        font-size: 1.3rem;
+    }
+}
